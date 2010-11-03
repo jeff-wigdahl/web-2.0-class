@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  first_name: gill
+  last_name: mesh
+  date_of_birth: 6/4/82
+
+two:
+  first_name: MyString
+  last_name: MyString
+  date_of_birth: MyString
